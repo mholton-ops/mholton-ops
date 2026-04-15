@@ -4,6 +4,29 @@ Operations & systems leader building distributed control platforms for multi-sit
 
 Focused on systems where operational correctness, traceability, and reconciliation are non-negotiable.
 
+## System Overview
+
+```mermaid
+flowchart LR
+
+A[Operational Events] --> B[Append-Only Event Store]
+
+B --> C[Projection Layer]
+C --> D[Local State]
+
+B --> E[Replication / Sync]
+E --> F[Remote Event Store]
+F --> G[Remote Projection]
+G --> H[Remote State]
+
+D --> I[State Comparison]
+H --> I
+
+I --> J[Divergence Detected]
+J --> K[Reconciliation Process]
+K --> B
+```
+
 ## Featured Project
 
 ### [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
