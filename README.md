@@ -4,7 +4,7 @@ Operations & systems leader building distributed control platforms for multi-sit
 
 Focused on systems where operational correctness, traceability, and reconciliation are non-negotiable.
 
-## System Overview
+## System Overview (Event Flow & Reconciliation)
 
 ```mermaid
 flowchart LR
@@ -26,6 +26,8 @@ I --> J[Divergence Detected]
 J --> K[Reconciliation Process]
 K --> B
 ```
+
+This model illustrates how event sourcing, projection, and reconciliation interact to maintain consistent operational state across distributed sites.
 
 ## Featured Project
 
