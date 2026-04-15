@@ -1,12 +1,14 @@
 # Mike Holton
 
-Operations & systems leader building control platforms for multi-site environments where workflow, reporting, and financial outcomes must stay aligned.
+Operations & systems leader building distributed control platforms for multi-site environments where workflow, state, and financial outcomes must remain aligned.
+
+Focused on systems where operational correctness, traceability, and reconciliation are non-negotiable.
 
 ## Featured Project
 
 ### [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
 
-Clean-room reference implementation of a distributed operations control platform demonstrating:
+Clean-room reference implementation of a distributed operations control platform, demonstrating:
 
 - append-only event history
 - deterministic projections
@@ -21,7 +23,7 @@ Clean-room reference implementation of a distributed operations control platform
 - workflow control and traceability
 - event-driven state and projections
 - replay, synchronization, and reconciliation
-- systems tied to real operating consequence
+- systems tied to real operating conditions
 
 ## Links
 
