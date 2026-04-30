@@ -67,7 +67,7 @@ A clean-room public project focused on deterministic control, state discipline, 
 
 - [HALDN](https://haldn.com)
 - [Portfolio](https://haldn.com/mike)
-- [LinkedIn](https://www.linkedin.com/in/mike-holton-4b876762)
+- [LinkedIn](https://www.linkedin.com/in/mike-holton/)
 - [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
 - [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System)
 
