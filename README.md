@@ -6,7 +6,7 @@ I have served as Founder/CEO, CTO, system architect, and hands-on builder, with 
 
 Through HALDN, I focus on enterprise architecture, operational control, digital transformation, automation, auditability, and executive visibility for organizations with complex or fragmented systems.
 
-I am strongest in CTO, CIO, COO, Head of Operations, enterprise systems, and transformation contexts where technology has to improve operating truth, risk control, financial discipline, and decision quality.
+I am strongest in CTO, CIO, COO, Head of Operations, enterprise systems, and transformation contexts where technology must improve operating truth, risk control, financial discipline, and decision quality.
 
 ## What this GitHub is for
 
@@ -29,6 +29,14 @@ It demonstrates:
 - architecture patterns for distributed operating environments
 
 [View project](https://github.com/mholton-ops/distributed-ops-control-platform)
+
+## Additional Public Work
+
+### Deterministic Control System
+
+A clean-room public project focused on deterministic control, state discipline, and system behavior.
+
+[View project](https://github.com/mholton-ops/Deterministic-Control-System)
 
 ## Operating Patterns I Care About
 
@@ -61,6 +69,7 @@ It demonstrates:
 - [Portfolio](https://haldn.com/mike)
 - [LinkedIn](https://www.linkedin.com/in/mike-holton-4b876762/)
 - [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
+- [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System)
 
 ## Note
 
