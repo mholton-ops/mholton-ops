@@ -1,50 +1,67 @@
 # Mike Holton
 
-I build control systems for high-consequence operations where physical activity, workflow state, measurement, custody, and financial outcomes have to stay aligned.
+I am an executive technology and operations leader with 27+ years building systems for complex, distributed operating environments. My work sits where technology, process, data integrity, risk, financial controls, and executive decision-making intersect.
 
-My work sits between software architecture and operating reality: field capture, distributed sync, custody tracking, evidence-backed workflows, analytical reconciliation, financial exposure, settlement, and audit reconstruction.
+I have served as Founder/CEO, CTO, system architect, and hands-on builder, with a focus on turning fragmented operations into governed, measurable, and accountable platforms. That work includes distributed systems, operational control, data integrity, executive dashboards, financial controls, and field-to-leadership visibility.
 
-## Current public work
+Through HALDN, I focus on enterprise architecture, operational control, digital transformation, automation, auditability, and executive visibility for organizations with complex or fragmented systems.
+
+I am strongest in CTO, CIO, COO, Head of Operations, enterprise systems, and transformation contexts where technology has to improve operating truth, risk control, financial discipline, and decision quality.
+
+## What this GitHub is for
+
+This GitHub profile contains clean-room public work that demonstrates how I think about platform architecture, operational state, traceability, reconciliation, dashboards, and system governance. It does not contain proprietary code, customer data, protected workflows, or confidential business logic.
+
+## Featured Work
 
 ### Distributed Ops Control Platform
 
-A clean-room public system exploring control patterns used in real operating environments:
+A clean-room reference implementation of a distributed operations control platform showing how operational events can be captured, replayed, reconciled, and surfaced through internal tooling.
+
+It demonstrates:
 
 - append-only event history
 - deterministic projections
-- sync and replay integrity
+- site synchronization and replay
 - divergence detection
-- custody and reconciliation workflows
-- operator-facing control surfaces
+- reconciliation workflows
+- operator-facing dashboards and internal tooling
+- architecture patterns for distributed operating environments
 
-This is not a clone of any proprietary system. It is a public demonstration of architectural thinking around operational truth, drift prevention, and physical-financial alignment.
+[View project](https://github.com/mholton-ops/distributed-ops-control-platform)
 
-Repository:
-https://github.com/mholton-ops/distributed-ops-control-platform
+## Operating Patterns I Care About
 
-## HALDN
+- operational truth captured at the point of work
+- event history and replay
+- data integrity across distributed sites
+- workflow governance and state transitions
+- reconciliation and exception handling
+- auditability and evidence-backed decisions
+- dashboards that support executive action
+- systems that fit real field conditions
 
-HALDN exists for systems where ordinary software is not enough.
+## Background Themes
 
-When records drift from reality, leaders make decisions from fiction. The work is to prevent that separation before it becomes loss.
+- enterprise technology strategy
+- enterprise architecture
+- operations transformation
+- digital transformation
+- distributed systems
+- data governance and analytics
+- cybersecurity, business continuity, and incident response
+- financial and operational controls
+- logistics and supply-chain systems
+- mobile and field workflows
+- executive reporting and decision support
 
-- Portfolio: https://haldn.com/mike
-- HALDN: https://haldn.com
-- Team: https://haldn.com/team
+## Links
 
-## Focus areas
+- [HALDN](https://haldn.com)
+- [Portfolio](https://haldn.com/mike)
+- [LinkedIn](https://www.linkedin.com/in/mike-holton-4b876762/)
+- [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
 
-- distributed operational systems
-- control-system architecture
-- workflow-governed data capture
-- evidence-backed custody
-- event sourcing and replay
-- audit reconstruction
-- financial-operational reconciliation
-- high-value inventory and material lifecycle systems
+## Note
 
-## Working principle
-
-Software is not valuable because it stores data.
-
-It is valuable when it keeps reality, records, and consequence aligned.
+This repository set is intended to demonstrate architecture, operational thinking, and clean-room public system design. It does not contain proprietary code, confidential business logic, customer data, protected workflows, internal schemas, pricing logic, or sensitive operating methods.
