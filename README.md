@@ -4,7 +4,7 @@
 
 I build the control systems that keep consequential physical operations, recorded state, and financial outcome aligned.
 
-For 27+ years, I have worked across software, distributed infrastructure, industrial automation, custody and evidence, analytical measurement, commodity risk, and financial control. I am most useful where the operation is complex, the stakes are real, and fragmented systems are obscuring the operating truth.
+For 27+ years, I have worked across software, distributed infrastructure, industrial automation, custody and evidence, analytical measurement, protecting value while market prices change, and financial control. I am most useful where the operation is complex, the stakes are real, and fragmented systems are obscuring the operating truth.
 
 ## Operating Range
 
@@ -12,14 +12,14 @@ For 27+ years, I have worked across software, distributed infrastructure, indust
 - Designed platforms operating across hundreds of mobile endpoints and 100+ imaging and inventory stations
 - Supported approximately 120,000 evidence images captured per week at peak
 - Modernized a 12-location enterprise network and built workforce telemetry across 11 operating yards
-- Connected field capture, custody, analytical measurement, pricing, hedge governance, settlement, and audit
+- Connected field capture, chain of custody, laboratory measurement, pricing, controls that protected margins while market prices changed, final payment, and audit evidence
 
 ## What I Build
 
 - Operational control models that turn physical execution into governed, evidence-backed state
 - Distributed systems with local persistence, journaled sync, idempotent replay, divergence detection, and reconciliation
 - Industrial and mobile workflows that connect operators, equipment, inventory, and financial consequence
-- Executive decision systems that make exceptions, exposure, and operating reality visible
+- Executive decision systems that make exceptions, financial risk, and operating reality visible
 
 ## Featured Public Work
 
