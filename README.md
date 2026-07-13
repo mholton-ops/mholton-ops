@@ -2,48 +2,55 @@
 
 **Technology & Operations Executive | Founder & CTO | Systems Architect**
 
-I build the control systems that keep consequential physical operations, recorded state, and financial outcome aligned.
+I turn fragmented physical operations into control systems that keep workflow, evidence, inventory, measurement, and financial outcomes aligned.
 
-For 27+ years, I have worked across software, distributed infrastructure, industrial automation, custody and evidence, analytical measurement, protecting value while market prices change, and financial control. I am most useful where the operation is complex, the stakes are real, and fragmented systems are obscuring the operating truth.
+[Executive portfolio](https://haldn.com/mike) | [Executive resume](https://haldn.com/documents/mike-holton-executive-resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mike-holton/) | [Email](mailto:mike@haldn.com)
 
-## Operating Range
+## Executive Snapshot
 
-- Founded and led M & H Technologies for 16 years while serving as the executive and primary architect behind ALIGN
-- Designed platforms operating across hundreds of mobile endpoints and 100+ imaging and inventory stations
-- Supported approximately 120,000 evidence images captured per week at peak
-- Modernized a 12-location enterprise network and built workforce telemetry across 11 operating yards
-- Connected field capture, chain of custody, laboratory measurement, pricing, controls that protected margins while market prices changed, final payment, and audit evidence
+Founder-operator and hands-on architect with 27+ years spanning software, distributed infrastructure, industrial automation, data, cybersecurity, and operational control.
 
-## What I Build
+| Operating evidence | Scope or observed outcome |
+| --- | --- |
+| Founder and executive leadership | 16 years leading M & H Technologies and serving as primary architect behind ALIGN |
+| Platform scale | Hundreds of mobile endpoints, 100+ imaging and inventory stations, and multiple industrial controllers |
+| Evidence volume | Approximately 120,000 evidence images captured per week at peak |
+| Multi-site operations | 12-location enterprise modernization and workforce telemetry across 11 operating yards |
+| Workflow improvement | Material handling reduced from about 11 touches to about 2 in an ALIGN-controlled workflow |
+| Labor leverage | Roughly 40-60% fewer warehouse staff and 50-80% less manual accounting work in applicable workflows |
+| Operational resilience | Multi-site ransomware recovery from isolation through full operation in approximately 36 hours |
 
-- Operational control models that turn physical execution into governed, evidence-backed state
-- Distributed systems with local persistence, journaled sync, idempotent replay, divergence detection, and reconciliation
-- Industrial and mobile workflows that connect operators, equipment, inventory, and financial consequence
-- Executive decision systems that make exceptions, financial risk, and operating reality visible
+These figures are observed results from the documented operating environments, not generalized performance guarantees.
 
-## Featured Public Work
+## Where I Create Leverage
 
-### [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System)
+- Establish trusted operating state when physical execution and recorded state have drifted apart
+- Connect field evidence, chain of custody, laboratory measurement, changing market values, final payment, and audit history
+- Build distributed and offline-capable systems that remain correct through sync, replay, partial failure, and reconciliation
+- Lead transformation from executive priorities through operating policy, architecture, data, infrastructure, and physical equipment
 
-The primary clean-room reference for my control-system work. It demonstrates explicit state transitions, command processing, sync and replay, divergence detection, reconciliation, auditability, and operator-focused control surfaces.
+## Featured Engineering Proof
 
-### [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
+| Project | What it demonstrates | Review path |
+| --- | --- | --- |
+| [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System) | Explicit state transitions, evidence-backed commands, sync and replay, divergence detection, final-payment reconstruction, and operator control surfaces | Start with the business problem, architecture, system guarantees, and reviewer walkthrough |
+| [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform) | Append-only event history, deterministic projections, idempotent replay, multi-site drift detection, and operator-owned reconciliation | Start with the dashboard, asset projection detail, sync batch detail, and tests |
 
-A reference platform for multi-site command, evidence, event history, operational state, and decision support across distributed environments.
+Both repositories are clean-room reference implementations. They demonstrate architecture and implementation style without publishing former employers' or customers' proprietary systems, data, or source code.
 
-## Best-Fit Conversations
+## Technical and Operating Range
 
-I am open to:
+C# / .NET, SQL Server, Java / Android, TypeScript, PostgreSQL, distributed systems, event-driven architecture, offline sync, data modeling, industrial controls, embedded systems, virtualization, networking, and cybersecurity recovery.
+
+## Best-Fit Mandates
 
 - CTO, technology, systems, or operations leadership where architecture and operating accountability must remain connected
 - Operating partnerships with companies that need a technical founder-operator for their next stage
-- Complex transformations where custody, inventory, measurement, workflow, and economics have drifted apart
+- Complex transformations where inventory, measurement, workflow, evidence, and financial outcome no longer agree
 
-## Connect
+## Start a Conversation
 
-- [Executive portfolio and ALIGN case study](https://haldn.com/mike)
+- [Portfolio and ALIGN case study](https://haldn.com/mike)
 - [Executive resume](https://haldn.com/documents/mike-holton-executive-resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/mike-holton/)
-- [Email](mailto:mike@haldn.com)
-
-> The public repositories are clean-room reference implementations. They demonstrate architecture and control patterns without publishing former employers' or customers' proprietary systems, data, or source code.
+- [mike@haldn.com](mailto:mike@haldn.com)
