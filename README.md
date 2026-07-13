@@ -1,76 +1,49 @@
 # Mike Holton
 
-I am an executive technology and operations leader with 27+ years building systems for complex, distributed operating environments. My work sits where technology, process, data integrity, risk, financial controls, and executive decision-making intersect.
+**Technology & Operations Executive | Founder & CTO | Systems Architect**
 
-I have served as Founder/CEO, CTO, system architect, and hands-on builder, with a focus on turning fragmented operations into governed, measurable, and accountable platforms. That work includes distributed systems, operational control, data integrity, executive dashboards, financial controls, and field-to-leadership visibility.
+I build the control systems that keep consequential physical operations, recorded state, and financial outcome aligned.
 
-Through HALDN, I focus on enterprise architecture, operational control, digital transformation, automation, auditability, and executive visibility for organizations with complex or fragmented systems.
+For 27+ years, I have worked across software, distributed infrastructure, industrial automation, custody and evidence, analytical measurement, commodity risk, and financial control. I am most useful where the operation is complex, the stakes are real, and fragmented systems are obscuring the operating truth.
 
-I am strongest in CTO, CIO, COO, Head of Operations, enterprise systems, and transformation contexts where technology must improve operating truth, risk control, financial discipline, and decision quality.
+## Operating Range
 
-## What this GitHub is for
+- Founded and led M & H Technologies for 16 years while serving as the executive and primary architect behind ALIGN
+- Designed platforms operating across hundreds of mobile endpoints and 100+ imaging and inventory stations
+- Supported approximately 120,000 evidence images captured per week at peak
+- Modernized a 12-location enterprise network and built workforce telemetry across 11 operating yards
+- Connected field capture, custody, analytical measurement, pricing, hedge governance, settlement, and audit
 
-This GitHub profile contains clean-room public work that demonstrates how I think about platform architecture, operational state, traceability, reconciliation, dashboards, and system governance. It does not contain proprietary code, customer data, protected workflows, or confidential business logic.
+## What I Build
 
-## Featured Work
+- Operational control models that turn physical execution into governed, evidence-backed state
+- Distributed systems with local persistence, journaled sync, idempotent replay, divergence detection, and reconciliation
+- Industrial and mobile workflows that connect operators, equipment, inventory, and financial consequence
+- Executive decision systems that make exceptions, exposure, and operating reality visible
 
-### Distributed Ops Control Platform
+## Featured Public Work
 
-A clean-room reference implementation of a distributed operations control platform showing how operational events can be captured, replayed, reconciled, and surfaced through internal tooling.
+### [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System)
 
-It demonstrates:
+The primary clean-room reference for my control-system work. It demonstrates explicit state transitions, command processing, sync and replay, divergence detection, reconciliation, auditability, and operator-focused control surfaces.
 
-- append-only event history
-- deterministic projections
-- site synchronization and replay
-- divergence detection
-- reconciliation workflows
-- operator-facing dashboards and internal tooling
-- architecture patterns for distributed operating environments
+### [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
 
-[View project](https://github.com/mholton-ops/distributed-ops-control-platform)
+A reference platform for multi-site command, evidence, event history, operational state, and decision support across distributed environments.
 
-## Additional Public Work
+## Best-Fit Conversations
 
-### Deterministic Control System
+I am open to:
 
-A clean-room public project focused on deterministic control, state discipline, and system behavior.
+- CTO, technology, systems, or operations leadership where architecture and operating accountability must remain connected
+- Operating partnerships with companies that need a technical founder-operator for their next stage
+- Complex transformations where custody, inventory, measurement, workflow, and economics have drifted apart
 
-[View project](https://github.com/mholton-ops/Deterministic-Control-System)
+## Connect
 
-## Operating Patterns I Care About
-
-- operational truth captured at the point of work
-- event history and replay
-- data integrity across distributed sites
-- workflow governance and state transitions
-- reconciliation and exception handling
-- auditability and evidence-backed decisions
-- dashboards that support executive action
-- systems that fit real field conditions
-
-## Background Themes
-
-- enterprise technology strategy
-- enterprise architecture
-- operations transformation
-- digital transformation
-- distributed systems
-- data governance and analytics
-- cybersecurity, business continuity, and incident response
-- financial and operational controls
-- logistics and supply-chain systems
-- mobile and field workflows
-- executive reporting and decision support
-
-## Links
-
-- [HALDN](https://haldn.com)
-- [Portfolio](https://haldn.com/mike)
+- [Executive portfolio and ALIGN case study](https://haldn.com/mike)
+- [Executive resume](https://haldn.com/documents/mike-holton-executive-resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/mike-holton/)
-- [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform)
-- [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System)
+- [Email](mailto:mike@haldn.com)
 
-## Note
-
-This repository set is intended to demonstrate architecture, operational thinking, and clean-room public system design. It does not contain proprietary code, confidential business logic, customer data, protected workflows, internal schemas, pricing logic, or sensitive operating methods.
+> The public repositories are clean-room reference implementations. They demonstrate architecture and control patterns without publishing former employers' or customers' proprietary systems, data, or source code.
