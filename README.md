@@ -1,18 +1,18 @@
 # Mike Holton
 
-**Technology & Operations Executive | Founder & CTO | Systems Architect**
+**Founder & CEO | Technology & Operations Executive | Systems Architect**
 
-I turn fragmented physical operations into control systems that keep workflow, evidence, inventory, measurement, and financial outcomes aligned.
+I build and lead technology-enabled operations that keep workflow, evidence, inventory, measurement, and financial outcomes aligned.
 
 [Executive portfolio](https://haldn.com/mike) | [Executive resume](https://haldn.com/documents/mike-holton-executive-resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mike-holton/) | [Email](mailto:mike@haldn.com)
 
 ## Executive Snapshot
 
-Founder-operator and hands-on architect with 27+ years spanning software, distributed infrastructure, industrial automation, data, cybersecurity, and operational control.
+Founder and chief executive with 16 years leading M & H Technologies and 27+ years spanning company leadership, operations, software, distributed infrastructure, industrial automation, data, cybersecurity, and operational control.
 
 | Operating evidence | Scope or observed outcome |
 | --- | --- |
-| Founder and executive leadership | 16 years leading M & H Technologies and serving as primary architect behind ALIGN |
+| Chief executive leadership | 16 years as Founder and CEO of M & H Technologies while serving as primary architect behind ALIGN |
 | Platform scale | Hundreds of mobile endpoints, 100+ imaging and inventory stations, and multiple industrial controllers |
 | Evidence volume | Approximately 120,000 evidence images captured per week at peak |
 | Multi-site operations | 12-location enterprise modernization and workforce telemetry across 11 operating yards |
@@ -24,9 +24,9 @@ These figures are observed results from the documented operating environments, n
 
 ## Where I Create Leverage
 
+- Set direction while keeping operating, technical, and financial consequences in one decision frame
 - Establish trusted operating state when physical execution and recorded state have drifted apart
 - Connect field evidence, chain of custody, laboratory measurement, changing market values, final payment, and audit history
-- Build distributed and offline-capable systems that remain correct through sync, replay, partial failure, and reconciliation
 - Lead transformation from executive priorities through operating policy, architecture, data, infrastructure, and physical equipment
 
 ## Featured Engineering Proof
@@ -40,12 +40,13 @@ Both repositories are clean-room reference implementations. They demonstrate arc
 
 ## Technical and Operating Range
 
-C# / .NET, SQL Server, Java / Android, TypeScript, PostgreSQL, distributed systems, event-driven architecture, offline sync, data modeling, industrial controls, embedded systems, virtualization, networking, and cybersecurity recovery.
+Executive leadership, operating strategy, technology strategy, partner coordination, C# / .NET, SQL Server, Java / Android, TypeScript, PostgreSQL, distributed systems, event-driven architecture, offline sync, data modeling, industrial controls, embedded systems, virtualization, networking, and cybersecurity recovery.
 
 ## Best-Fit Mandates
 
-- CTO, technology, systems, or operations leadership where architecture and operating accountability must remain connected
-- Operating partnerships with companies that need a technical founder-operator for their next stage
+- CEO or President roles in technology-enabled, industrial, distributed, or multi-site businesses
+- Operating partnerships with owners or companies that need a founder-operator for their next stage
+- COO, CTO, or transformation mandates where architecture and operating accountability must remain connected
 - Complex transformations where inventory, measurement, workflow, evidence, and financial outcome no longer agree
 
 ## Start a Conversation
