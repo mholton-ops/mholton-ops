@@ -1,16 +1,14 @@
 # Mike Holton
 
-**Founder & CEO | Technology & Operations Executive | Systems Architect**
+**Founder-operator | Operating & technology executive | P&L, industrial & multi-site transformation**
 
-I build and lead technology-enabled operations that keep workflow, evidence, inventory, measurement, and financial outcomes aligned.
+I lead technology-enabled operations where physical work, evidence, inventory, measurement, and financial outcomes must remain aligned. I founded and led M & H Technologies for 16 years, scaling the business to eight-figure annual revenue while retaining accountability for strategy, P&L, operations, commercial delivery, partnerships, and risk.
 
-[Executive portfolio](https://haldn.com/mike) | [Executive resume](https://haldn.com/documents/mike-holton-executive-resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mike-holton/) | [Email](mailto:mike@haldn.com)
+[Executive portfolio](https://haldn.com/mike) | [Public executive resume](https://haldn.com/documents/mike-holton-executive-resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mike-holton/) | [Email](mailto:mike@haldn.com)
 
-## Executive Snapshot
+## Operating Evidence
 
-Founder and chief executive with 16 years leading M & H Technologies and 27+ years spanning company leadership, operations, software, distributed infrastructure, industrial automation, data, cybersecurity, and operational control.
-
-| Operating evidence | Scope or observed outcome |
+| Area | Scope or observed outcome |
 | --- | --- |
 | Chief executive leadership | 16 years as Founder and CEO of M & H Technologies while serving as primary architect behind ALIGN |
 | Platform scale | Hundreds of mobile endpoints, 100+ imaging and inventory stations, and multiple industrial controllers |
@@ -24,34 +22,27 @@ These figures are observed results from the documented operating environments, n
 
 ## Where I Create Leverage
 
-- Set direction while keeping operating, technical, and financial consequences in one decision frame
+- Keep operating, technical, and financial consequences in one decision frame
 - Establish trusted operating state when physical execution and recorded state have drifted apart
-- Connect field evidence, chain of custody, laboratory measurement, changing market values, final payment, and audit history
-- Lead transformation from executive priorities through operating policy, architecture, data, infrastructure, and physical equipment
+- Connect field evidence, custody, measurement, market value, payment, and audit history
+- Carry transformation from executive priority through policy, architecture, data, infrastructure, and physical equipment
 
-## Featured Engineering Proof
+## Public Engineering Proof
 
-| Project | What it demonstrates | Review path |
-| --- | --- | --- |
-| [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System) | Explicit state transitions, evidence-backed commands, sync and replay, divergence detection, final-payment reconstruction, and operator control surfaces | Start with the business problem, architecture, system guarantees, and reviewer walkthrough |
-| [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform) | Append-only event history, deterministic projections, idempotent replay, multi-site drift detection, and operator-owned reconciliation | Start with the dashboard, asset projection detail, sync batch detail, and tests |
+| Project | What it demonstrates |
+| --- | --- |
+| [Deterministic Control System](https://github.com/mholton-ops/Deterministic-Control-System) | Evidence-backed commands, deterministic application, distributed-state controls, divergence detection, settlement reconstruction, and operator workflows |
+| [Distributed Ops Control Platform](https://github.com/mholton-ops/distributed-ops-control-platform) | Append-only history, deterministic projections, idempotent replay, multi-site drift detection, and operator-owned reconciliation |
 
 Both repositories are clean-room reference implementations. They demonstrate architecture and implementation style without publishing former employers' or customers' proprietary systems, data, or source code.
 
-## Technical and Operating Range
+## Technical Range
 
 Executive leadership, operating strategy, technology strategy, partner coordination, C# / .NET, SQL Server, Java / Android, TypeScript, PostgreSQL, distributed systems, event-driven architecture, offline sync, data modeling, industrial controls, embedded systems, virtualization, networking, and cybersecurity recovery.
 
 ## Best-Fit Mandates
 
-- CEO or President roles in technology-enabled, industrial, distributed, or multi-site businesses
-- Operating partnerships with owners or companies that need a founder-operator for their next stage
-- COO, CTO, or transformation mandates where architecture and operating accountability must remain connected
-- Complex transformations where inventory, measurement, workflow, evidence, and financial outcome no longer agree
-
-## Start a Conversation
-
-- [Portfolio and ALIGN case study](https://haldn.com/mike)
-- [Executive resume](https://haldn.com/documents/mike-holton-executive-resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/mike-holton/)
-- [mike@haldn.com](mailto:mike@haldn.com)
+- President, COO, or General Manager leadership in industrial, distributed, multi-site, or technology-enabled businesses
+- CTO/CIO or transformation leadership where architecture and operating accountability must remain connected
+- Operating-partner or portfolio-company mandates requiring stabilization, control repair, and 90-day execution
+- Selected fixed-scope interim work connecting physical execution, recorded state, and financial outcome
